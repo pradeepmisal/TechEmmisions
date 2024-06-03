@@ -1,4 +1,5 @@
-![banner](docs/edit/images/banner.png)
+![banner]![image](https://github.com/pradeepmisal/TechEmmisions/assets/144873499/84441932-c1ce-4c81-a66d-0ffac215be88)
+
 
 Estimate and track carbon emissions from your computer, quantify and analyze their impact.
 
